@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://stleateak.github.io/stleateak.txt.gz
+Sitemap: https://stleateak.github.io/app/stleateak.txt.gz
+Sitemap: https://stleateak.github.io/assets/stleateak.txt.gz
+Sitemap: https://stleateak.github.io/css/stleateak.txt.gz
+Sitemap: https://stleateak.github.io/includes/stleateak.txt.gz
+Sitemap: https://stleateak.github.io/item/stleateak.txt.gz
+Sitemap: https://stleateak.github.io/src/stleateak.txt.gz
